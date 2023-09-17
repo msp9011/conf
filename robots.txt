@@ -1,1 +1,1 @@
-Sitemap: https://msp9011.github.io/conf/sitemap.xml
+Sitemap: https://github.com/msp9011/conf/sitemap.xml
